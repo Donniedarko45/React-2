@@ -1,2 +1,2 @@
-## hello starting with React-js
+## Hello starting with React-js
 
